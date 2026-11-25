@@ -13,9 +13,9 @@ OpenIOCCollector —
 every night, published as checksummed Wazuh CDB lists with a staleness guard,
 a 90-day trend and an in-browser lookup.
 
-live dashboard ·
-source ·
-API manifest
+live dashboard https://jaguarmayan8.github.io/OpenIOCCollector/·
+source https://github.com/jaguarmayan8/OpenIOCCollector·
+API manifest https://jaguarmayan8.github.io/OpenIOCCollector/api/manifest.json
 
 How I think about detections
 
